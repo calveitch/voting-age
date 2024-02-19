@@ -3,7 +3,8 @@
 
   // TODO: Implement this function.
 function checkVotingAge(age) {
-  return age >= 18 ;
+   const result = age>=18;
+  return result;
 }
 
 // DO NOT CHANGE ANYTHING BELOW THIS LINE.
